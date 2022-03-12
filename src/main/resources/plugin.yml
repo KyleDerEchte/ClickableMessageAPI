@@ -1,0 +1,5 @@
+name: ClickableMessageAPI
+main: de.kyleonaut.clickablemessage.ClickableMessagePlugin
+version: 1.0.0
+author: kyleonaut
+api-version: 1.16
